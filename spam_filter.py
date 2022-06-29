@@ -1,4 +1,4 @@
-#usr/bin/python
+#user/bin/python
 
 import pickle
 import numpy
